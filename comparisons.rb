@@ -103,4 +103,4 @@ age = 1
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER: when I ran the code in IRB it printed 1.  I think it did that because it was the last condition in the line of code.  I ran it again in the reverse order age && loves_to_play and it printed true. 
-# This happened because one variable is assigned as an integer and the other a string.
+# This happened because one variable is assigned as an integer and the other a boolean.

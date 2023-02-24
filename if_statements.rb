@@ -43,11 +43,11 @@
 
 # num_quarters = 4
 
-# if num_quarters >= 2
-#   puts "I have enough money for a gumball"
-# else num_quarters <= 2
-#   puts "I don't have enough money for a gumball"
-# end
+if num_quarters >= 2
+  puts "I have enough money for a gumball"
+else num_quarters < 2
+  puts "I don't have enough money for a gumball"
+end
 
 #####################
 # Using the variables defined below, write code that will tell you
